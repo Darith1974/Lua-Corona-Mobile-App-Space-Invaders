@@ -1,0 +1,9 @@
+--Notice you can use comments in this section as well
+settings = {
+orientation = {
+default = "landscapeRight",
+supported = {
+"landscapeRight", "landscapeLeft"
+},
+},
+}
